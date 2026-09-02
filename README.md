@@ -2,13 +2,11 @@
 **Student ID:** 2671508
 **Course:** ICT 6700 — Special Study in Information and Communication Technology - Federated AI Security for Healthcare
 
-## Access Links
-
-* [Direct Notebook Access](Task_1_Disease_Prediction_Using_ML.ipynb)
-* [Google Colab Link](https://colab.research.google.com/drive/1nRbIuskAtpRV02E6UM3h6ZXJr4XjgkfH?usp=sharing)
-
 ## Assignment Task 1: Heart Disease Prediction Using Machine Learning
 
+### Access Links
+* [Source code](Task_1_Disease_Prediction_Using_ML.ipynb)
+* [Google Colab Link: https://colab.research.google.com/drive/1nRbIuskAtpRV02E6UM3h6ZXJr4XjgkfH?usp=sharing](https://colab.research.google.com/drive/1nRbIuskAtpRV02E6UM3h6ZXJr4XjgkfH?usp=sharing)
 
 ### Dataset
 
